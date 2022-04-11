@@ -8,7 +8,7 @@ Jogo de naves utilizando HTML, CSS e JavaScript, como atividade prática do Boot
 Concluído!!!:milky_way:
 
 ## Demonstração da aplicação
-![Clique aqui para jogar](https://renatabc.github.io/space-shooter/)
+[Clique aqui para jogar](https://renatabc.github.io/space-shooter/)
 
 ![spaceshooter2](https://user-images.githubusercontent.com/93830634/162817214-f330f8f1-b5c5-44a8-a4d1-5a9d761c14fc.png)
 
