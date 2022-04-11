@@ -2,7 +2,7 @@
 
 Jogo de naves utilizando HTML, CSS e JavaScript, como atividade prática do Bootcamp *"Órbi Web Games Developer"*, pela Digital Innovation One.
 
-(insira foto aqui)
+![spaceshooter1](https://user-images.githubusercontent.com/93830634/162816968-4e9449b4-7d75-4232-8cd5-943702dfc279.png)
 
 ### Status do projeto
 Concluído!!!:milky_way:
@@ -10,7 +10,7 @@ Concluído!!!:milky_way:
 ## Demonstração da aplicação
 (insira link aqui)
 
-(insira foto aqui)
+![spaceshooter2](https://user-images.githubusercontent.com/93830634/162817214-f330f8f1-b5c5-44a8-a4d1-5a9d761c14fc.png)
 
 ## Pré-requisitos
 
